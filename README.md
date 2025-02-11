@@ -9,7 +9,8 @@ Run: python turtle_spiral.py
 Enjoy the drawing! 🎨
 Preview
 
-[screen-capture.gif](https://github.com/omeryasingundogdu/NeonSwirl/blob/main/screen-capture.gif)
+![Spiral Animation](https://raw.githubusercontent.com/omeryasingundogdu/NeonSwirl/main/assets/screen-capture.gif)
+
 
 🔹 Creator: [omeryasingundogdu]
 🔹 Language: Python
